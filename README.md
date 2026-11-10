@@ -48,7 +48,7 @@ and maintenance systems to manufacturing plants. Outside of that I build
 
 **Industrial:** Modbus, OPC UA, Siemens S7, EtherNet/IP, MQTT, BACnet, DNP3 ·
 SCADA/HMI, historians, alarm management, OEE, MES<br>
-**Languages:** Rust, TypeScript, C#, Go<br>
+**Languages:** Rust, TypeScript<br>
 **Platforms:** React, Tauri, GPUI, Node/Bun, SQLite, PostgreSQL, SQL Server,
 Cloudflare Workers, AWS, Azure
 
