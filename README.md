@@ -40,7 +40,8 @@ and maintenance systems to manufacturing plants. Outside of that I build
   and e-wallet e-statements, with an MCP server so you can ask Claude about it;
   AGPL, self-hostable
 - [Kantor](https://github.com/dzulfikar08/kantor): a native office suite for
-  Linux in Rust on GPUI; Sheets opens and saves `.xlsx` (early)
+  Linux in Rust on GPUI: Sheets (`.xlsx`), Docs (`.docx`) and Slides (`.pptx`)
+  in one binary, with an MCP server so AI agents can edit open documents
 - [rustune](https://github.com/dzulfikar08/rustune): a terminal music player
 
 ### Work with
