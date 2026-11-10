@@ -32,8 +32,6 @@ and maintenance systems to manufacturing plants. Outside of that I build
 ### Other open source
 
 - [rust-red](https://github.com/dzulfikar08/rust-red): Node-RED reimplemented in Rust
-- [rustune](https://github.com/dzulfikar08/rustune): a terminal music player
-- [sqltui](https://github.com/dzulfikar08/sqltui): a TUI SQLite browser
 - [JoyoFit](https://github.com/dzulfikar08/joyofit): an open Android companion
   for Huawei watches, syncing over Bluetooth with your data kept on your phone
 - [JoyoRogo](https://github.com/dzulfikar08/joyorogo): an AI weight-loss
@@ -41,6 +39,9 @@ and maintenance systems to manufacturing plants. Outside of that I build
 - [JoyoArto](https://github.com/dzulfikar08/joyoarto): family finance from bank
   and e-wallet e-statements, with an MCP server so you can ask Claude about it;
   AGPL, self-hostable
+- [Kantor](https://github.com/dzulfikar08/kantor): a native office suite for
+  Linux in Rust on GPUI; Sheets opens and saves `.xlsx` (early)
+- [rustune](https://github.com/dzulfikar08/rustune): a terminal music player
 
 ### Work with
 
