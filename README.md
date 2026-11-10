@@ -21,12 +21,26 @@ and maintenance systems to manufacturing plants. Outside of that I build
 - **[OpexMX](https://mx.opexcg.com)** (at OpexCG): a CMMS for plant
   maintenance teams. Work orders, preventive maintenance, spare parts, an
   Android app for technicians, and ISO 20816 vibration alerts.
+- **[OpexFlow](https://flow.opexcg.com)** (at OpexCG): an industrial edge
+  connector in Rust. Reads machines over Modbus, OPC UA, EtherNet/IP, MQTT and
+  FANUC FOCAS, buffers in SQLite, and pushes to the cloud; one binary that runs
+  on a Raspberry Pi.
+- **[Opex AIO](https://aio.opexcg.com)** (at OpexCG): one multi-tenant
+  workspace for project delivery and support: helpdesk, PMO, timesheets, CRM
+  and expenses, on Cloudflare Workers and D1.
 
 ### Other open source
 
 - [rust-red](https://github.com/dzulfikar08/rust-red): Node-RED reimplemented in Rust
 - [rustune](https://github.com/dzulfikar08/rustune): a terminal music player
 - [sqltui](https://github.com/dzulfikar08/sqltui): a TUI SQLite browser
+- [JoyoFit](https://github.com/dzulfikar08/joyofit): an open Android companion
+  for Huawei watches, syncing over Bluetooth with your data kept on your phone
+- [JoyoRogo](https://github.com/dzulfikar08/joyorogo): an AI weight-loss
+  companion that counts calories from photos of Indonesian food
+- [JoyoArto](https://github.com/dzulfikar08/joyoarto): family finance from bank
+  and e-wallet e-statements, with an MCP server so you can ask Claude about it;
+  AGPL, self-hostable
 
 ### Work with
 
